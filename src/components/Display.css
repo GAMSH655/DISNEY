@@ -1,0 +1,29 @@
+.movieImg{
+    width: 250px;
+}
+.movieCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+}
+.firtMovieCont{
+    width: 250px;
+    background-color:white;
+    margin: 20px;
+}
+.movieTitle{
+ text-transform: uppercase;
+ font-size: 1rem;
+ font-weight: bolder;
+ padding: 15px;
+}
+.movieInfo{
+     padding: 15px;
+     line-height: 20px;
+}
+.show{
+    font-weight: bolder;
+    font-size: 1rem;
+    padding: 15px;
+}

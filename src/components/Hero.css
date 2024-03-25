@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+#taylor{
+      height: 400px;
+}
+.Hero{
+   display: flex;
+   justify-content: spac;
+   background-color: black;
+}
+.tay{
+     color:#807a7aa4;
+     font-size: 2rem;
+     font-family: sans-serif;
+     text-transform: uppercase;
+}
+.version{
+     color:#807a7aa4;
+     font-size: 2rem;
+     font-family: sans-serif;
+     text-transform: uppercase;
+}
+.textCont{
+     margin-top: 50px;
+}
+.includes{
+      color:white;
+      font-size: rem;
+      padding-top: 20px;
+      line-height: 20px;
+      
+}
+.now {
+      color:white;
+      padding: 10px;
+      margin: 10px;
+      text-align: center;
+      font-size: rem;
+}
+.sub{
+      width: 200px;
+      text-transform: uppercase;
+      color: white;
+      padding: 20px;
+      background-color:#FF00BF;
+      border: none;
+      outline: none;
+      border-radius: 25px;
+      margin-top: 5px;
+      font-weight: bolder;
+      font-style: 1.3rem;
+     }

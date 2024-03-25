@@ -1,0 +1,21 @@
+.headerCont{
+    display: flex;
+}
+.linkContainer{
+    text-transform:uppercase;
+    padding-top: 18px;
+}
+a{
+     text-decoration: none;
+     color: black;
+     font-size: larger;
+     text-transform:lowercase;
+     margin: 10px;
+     font-size: 2rem;
+     text-transform: capitalize;
+     margin-top: 20px;
+     margin-left: 50px;
+}
+.logo{
+     width: 150px;
+}
